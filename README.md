@@ -21,7 +21,7 @@
 - Учет UX/UI принципов для целевой аудитории
 
 ## Демо
-[Открыть сайт](https://frogfromtheswamp.github.io/Smolathon_2025/)
+[Открыть сайт](https://frogfromtheswamp.github.io/Smolathon_2025/src/index.html)
 
 
 
